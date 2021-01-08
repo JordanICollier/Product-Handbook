@@ -9,3 +9,6 @@ To read the handbook go to the following site: https://jicproducts.gitbook.io/pr
 ••This book is open source, how do i contribue and what are the steps••
 
 I treat this handbook as the "codebase" itself.  If you find any typos, would like to contribute in any way please make a pull request on this github repository stating where you would like to make a change or add content that you find is relevant to the scope of the book.
+
+HISTORY:
+(merged pull request notes will go here as needed)
