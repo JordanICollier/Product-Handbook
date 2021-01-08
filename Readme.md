@@ -8,9 +8,9 @@ The beginning is teaching you how to ensure you are maintaining a clear directio
 
 To read the handbook go to the following site: https://jicproducts.gitbook.io/product-handbook/. Realizing what this book has to offer content-wise will help spark a thought whenever you find yourself in a place where you are not sure where to move forward or how to approach organization of work/thoughts, interviews, or ensuring direction.
 
-**This book is open source, how do i contribue and what are the steps**
+**This book is open source, how do i contribute and what are the steps**
 
-I treat this handbook as the "codebase" itself.  If you find any typos, would like to contribute in any way please make a pull request on this github repository stating where you would like to make a change or add content that you find is relevant to the scope of the book.
+I treat this handbook as the "codebase" itself.  If you find any typos, would like to contribute in any way please make a pull request on the master branch on this github repository stating where you would like to make a change or add content that you find is relevant to the scope of the book.
 
 **HISTORY:**
 (merged pull request notes will go here as needed)
