@@ -1,7 +1,7 @@
 # General Questions
 
 **How do I go through this Handbook?**  
-The recommendation is to go through it all. Realizing what this book has to offer content-wise will help spark a thought whenever you find yourself in a place where you are not sure where to move forward or how to approach organization of work/thoughts, interviews, or ensuring direction.  
+The recommendation is to go through it all. Realizing what this book has to offer content-wise, will help spark a thought whenever you find yourself in a place where you are not sure where to move forward or how to approach organization of work/thoughts, interviews, or ensuring direction.  
   
 **What if I want to do something different or another method is working well for our team?**  
 If you find that variants are working well for you and your team, keep doing them. This handbook provides a guideline to follow or a place to start for better organization. What is highly encouraged, though, is that whatever is chosen that everyone you interact with understands the terms you use. Don't waste time trying to be  perfect, instead seek for consistency. empathy, and a shared understanding. The methods in this book have been proven to work in the top 5 fortune 500 enterprises, midsized companies, startups, or even personal projects.  
