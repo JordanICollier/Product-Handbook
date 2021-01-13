@@ -1,6 +1,7 @@
 # Table of contents
 
 * [General Questions](README.md)
+* [How to contribute to the handbook](how-to-contribute-to-the-handbook.md)
 
 ## What is a Product Manager
 
