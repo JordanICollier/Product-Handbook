@@ -17,8 +17,8 @@
 ## Ceremonies \(Weekly\) <a id="ceremonies"></a>
 
 * [Overview](ceremonies/overview.md)
-* [Iteration Planning Meeting \(IPM\)](ceremonies/iteration-planning-meeting-ipm.md)
 * [Pre-Iteration Planning Meeting \(Pre-IPM\)](ceremonies/pre-iteration-planning-meeting-pre-ipm.md)
+* [Iteration Planning Meeting \(IPM\)](ceremonies/iteration-planning-meeting-ipm.md)
 * [Demo Day](ceremonies/demo-day.md)
 * [Retro](ceremonies/untitled.md)
 
