@@ -8,7 +8,7 @@ If you find that variants are working well for you and your team, keep doing the
 [https://agilemanifesto.org/](https://agilemanifesto.org/)   
   
 **We have never referred to what you are saying as...**  
-The more you work with different teams you will realize that semantics can mean different things for different teams i.e. what is a product owner vs a product manager, what is an epic/feature/story, how long is an iteration. REMEMBER true agile is not a set of rules, but rather a way to work so that we can adjust to people's needs and having conversations. Like with every workflow we need to ensure we are not being dogmatic, especially if something is just not working for our team.  
+The more you work with different teams, you will realize that semantics can mean different things for different teams i.e. what is a Product Owner vs a Product Manager, what is an epic/feature/story, how long is an iteration. REMEMBER true agile is not a set of rules, but rather a way to work so that we can adjust to people's needs and having conversations. Like with every workflow, we need to ensure we are not being dogmatic, especially if something is just not working for our team.  
   
 **Difference between Product Owner and a Product Manager and a Scrum Master?**   
 There are many different articles that written wonderfully on this topic that I will not get into here.  
@@ -21,5 +21,5 @@ You will notice that the theme in this handbook is a week at a time. It is not m
 Perfect, that is what I like to hear  
   
 **It seems so complicated, or I have questions:**  
-Reach out to jordanicollier@gmail.com and I can answer any questions, and try and simplify it for yourself and this book. I run this handbook like a product.
+Reach out to `jordanicollier@gmail.com` and I can answer any questions, and try and simplify it for yourself and this book. I run this handbook like a product.
 

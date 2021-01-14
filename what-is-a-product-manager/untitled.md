@@ -1,9 +1,9 @@
 # What to Expect
 
 **What to expect as a Product Manager**  
-You are responsible for maintaining a clear direction, conducting interviews for feedback, and being the ultimate communicator between the business, user, and team who are implementing the product. You are the leader of the product, and are making the best judgement you can utilizing the knowledge you have received and gathered. You are also the blocker buster, if you see something that needs to be unblocked you are equipped with the empowerment to have conversation to do so.  
+You are responsible for maintaining a clear direction, conducting interviews for feedback, and being the ultimate communicator between the Business, User/Designer, and Team who are implementing the product. You are the leader of the product, and are making the best judgement you can, utilizing the knowledge you have received and gathered. You are also the blocker buster - if you see something that needs to be unblocked, you are equipped with the empowerment to have a conversation to do so.  
   
-The Product Manager figures out what to build next and why. They do this by keeping in constant communication with the user and trying to pull out the most valuable information according to the business needs/goals, stakeholders vision, and product goals so that decision can be made in with quickly.  
+The Product Manager figures out what to build next and why. They do this by keeping in constant communication with the user and trying to pull out the most valuable information according to the business needs/goals, stakeholders vision, and product goals so that a decision can be made quickly.  
   
 Please ensure that as a Product Manager you are empowered to make decisions.  
 ****  
@@ -20,7 +20,7 @@ WEEK AT A TIME~~
 
 **Your backlog is the center of communication, ensure it is organized and ready to be talked about**
 
-Take into consideration ensuring stories are prioritized. You are also responsible for collecting the information you need to ensure you have stories for the team to work on.
+Take into consideration, ensuring stories are prioritized. You are also responsible for collecting the information you need, to ensure you have stories for the team to work on.
 
 **You run the team meetings**
 
@@ -36,8 +36,8 @@ You are responsible for getting specifications, thoughts, even capturing feeling
 3\) Meet with someone as a product mentor to use as a soundboard/mentor  
 4\) Start running a product of your own**  
   
-TIPS:  
+_Tips:  
 • When communicating regardless of medium, try and not use acronyms. You can never be sure of who might have valuable feedback but cannot cross the gap of understanding due to not realizing the context based on an undefined acronym.  
   
-• This is not a sprint, this is a marathon so ensure you have a healthy amount of rest and time spent outside of work to ensure you have a clear mind. The best Product Managers we have seen have an incredible work life balance.
+• This is not a sprint, this is a marathon - so ensure you have a healthy amount of rest and time spent outside of work to ensure you have a clear mind. The best Product Managers we have seen have an incredible work life balance._
 
