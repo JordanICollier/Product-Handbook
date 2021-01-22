@@ -1,7 +1,7 @@
 # Iteration Planning Meeting \(IPM\)
 
 **Who:** Entire Development team, Designer, Product Manager  
-**How long:** 1 hour or less  
+**How long:** 1 Hour or less  
 **Facilitator:** Product Manager  
 **Goal:** Communicate the upcoming work that needs to be done from organized backlog for the next iteration \(1 week\). Remember only to focus on work that is directly tied to the hypothesis defined for the product.
 

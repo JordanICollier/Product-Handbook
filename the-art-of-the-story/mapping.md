@@ -12,19 +12,19 @@ You are helping execute with the visionaries by:
 
 Ensuring the work that is being done is iterative.
 
-* At ANY point in the products life you can persevere or pivot
-* pivot: to change direction or functionality being built out
-* persevere: continue to iterate on the feedback you are receiving
+* At ANY point in the product's life you can persevere or pivot
+* Pivot: to change direction or functionality being built out
+* Persevere: continue to iterate on the feedback you are receiving
 
 Ensuring that the work is prioritized. Whether it is in it's infancy or developed, there will always be work/input for a product from users/stakeholders. This is not a good gauge of whether or not a product is of any value. Value is not based on how many folks are asking for something but rather off of a myriad of things\*
 
-Stories, Features, Epics are all vague in the agile world but at Smarsh we are beginning to create an understanding of how they best for our teams.
+Stories, Features, Epics are all vague in the agile world for adaptability
 
-Epic: A collection of features which thematically implement functionality
+**Epic**: A collection of features which thematically implement functionality
 
-Feature: Slice of work with a shared goal, usually used as a label and stated in the title of a story
+**Feature**: Slice of work with a shared goal, usually used as a label and stated in the title of a story
 
-Stories: Small deliverable functionality which a user benefits from
+**Stories**: Small deliverable functionality which a user benefits from
 
 ![](../.gitbook/assets/image.png)
 

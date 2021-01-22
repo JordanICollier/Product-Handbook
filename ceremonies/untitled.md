@@ -1,7 +1,7 @@
 # Retro
 
 **Who:** Entire development team, designer, PM  
-**How Long:** 1 hour or less  
+**How Long:** 1 Hour or less  
 **Facilitator:** 
 
 * Rotate who runs the Retro. Also assign someone as the offline referee \(someone who offlines or cuts off a topic that is being talked about too long\)

@@ -4,7 +4,6 @@
 **Attendees:** Any user, or stakeholder or anyone else who could receive value  
 **How long:** 5-10 minutes per product  
 **Facilitator:** A Demo MC, each Product Manager and a developer from each team  
-  
 **Goal as a Product Manager:**
 
 1. Show what is currently being built by each team 

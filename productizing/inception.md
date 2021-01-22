@@ -1,15 +1,23 @@
 # Inception
 
-**What is an Inception?**  
-In many ways, an Inception is similar to Scoping.  However, this time around you should have a clearly defined Problem and Solution. This is the time when we get together as a team and ensure there is a shared understanding on the Approach, Hypothesis, and Metrics.  
+**What is an Inception:**  
+In many ways an inception is similar to a scoping, however, this time around you should have a clearly defined problem and solution. This is the time when we get together as a team and ensure there is a shared understanding on the approach, hypothesis, and metrics.  
   
-**When do you have an Inception?**  
+**When do you have an inception?**  
 This happens after a Discovery and Framing.  
   
-**What do you need to run an Inception?**  
-**Who:** Entire development team,  Designer, Product Manager for the product,  Stakeholder, and an Inception Facilitator with a Scribe \(someone who takes notes\)  
+**What do you need to run an inception?**  
+**Who:** Entire development team, designer, PM for the product, stakeholder, and an inception facilitator with a Scribe \(someone who takes notes\)  
 **How Long:** &lt;8 hours  
-**Goal:** Go over the hypothesis for the product, and the potential solution you are going to test technically and how you will measure failure/success in a highly interactive meeting.
+**Goal:** Go over the hypothesis for the product, and the potential solution you are going to test technically and how you will measure failure/success in a highly interactive meeting.  
+TIP: Having someone who has done an inception before is highly suggested, you want to make sure that those with the loudest voice are the only ones heard. Have a facilitator that ensure each person have a chance to speak and share their perspective and understanding.  
+**Approach:** See agenda below  
+**Antigoal:** Time to come up with a solution\*  
+\*This should have been discussed and agreed upon during Discovery and Framing
+
+**Note: Facilitating an inception takes a ton of practice, and please ensure that the facilitator is completely unbiased towards anyone involved in the inception. This is where the most mistakes can be made and can actually make all progress made be pointless.**  
+  
+A LOT MORE TO BE FILLED IN HERE IN THE FUTURE, if you have questions please reach out to jordanicollier@gmail.com
 
 _TIP: Having someone who has done an Inception before is highly suggested, you want to make sure that those with the loudest voice are **not** the only ones heard. Have a facilitator who will ensure, each person gets a chance to speak and share their perspective and understanding._  
   

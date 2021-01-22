@@ -18,7 +18,7 @@ Attached is the .jpg of the format I need it in
 **WHY IS THIS GOOD:  
 •** Can be understood what this does at a high level without opening the story up based on the title  
 • Who the user is. Incredibly important, when demos or conversation need to happen. It also instills empathy into what is being built. At the end of the day we need constant reminders that we are dealing with humans.  
-• Acceptance is in complete correlation with the users needs  
+• Acceptance is in complete correlation with the users' needs  
 • Resources are readily available and all in one place  
 • Not too big and simple to grasp
 

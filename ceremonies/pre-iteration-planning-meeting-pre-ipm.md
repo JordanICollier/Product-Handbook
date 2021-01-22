@@ -1,7 +1,7 @@
 # Pre-Iteration Planning Meeting \(Pre-IPM\)
 
 **Who:** 1 Developer, Designer, Product Manager  
-**How long:** 1 hour or less  
+**How long:** 1 Hour or less  
 **Facilitator:** Product Manager  
 **Goal:** Communicate the upcoming direction from the Product Manager\*\* and stakeholder for the upcoming IPM.   
   
