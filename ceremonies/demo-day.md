@@ -1,13 +1,14 @@
 # Demo Day
 
-**Presenter:** 1 developer \(rotate\), PM  
+**Presenter:** 1 Developer \(rotate\), Product Manager  
 **Attendees:** Any user, or stakeholder or anyone else who could receive value  
 **How long:** 5-10 minutes per product  
 **Facilitator:** A Demo MC, each Product Manager and a developer from each team  
+  
 **Goal as a Product Manager:**
 
 1. Show what is currently being built by each team 
-2. Quick demos from each team showing what has changed since the last demo - What is the current hypothesis being tested - The metrics attached the products - Show any new functionality, and display feedback
+2. Quick demos from each team showing what has changed since the last demo - What is the current hypothesis being tested - The metrics attached to the products - Show any new functionality, and display feedback
 3. Q&A with the Product Managers and Developers - This is a great time to ask questions as a user/consumer and stakeholder 
 
 **Tips:**  

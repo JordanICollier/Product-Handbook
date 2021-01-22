@@ -1,6 +1,6 @@
 # Scoping
 
-**What is a scoping:**  
+**What is a scoping?**  
 A Scoping is a conversation with a facilitator revolving around a potential or existing product including a set of identified communicators related to the product. To break this down further, it is a conversation that ensures shared understanding and calibration with the direction of a product with all parties involved.  
   
 **When do you have a scoping?**

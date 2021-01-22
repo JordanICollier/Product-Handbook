@@ -7,9 +7,9 @@
 * Rotate who runs the Retro. Also assign someone as the offline referee \(someone who offlines or cuts off a topic that is being talked about too long\)
 * As the facilitator you are looking to ensure every person speaks. Those who tend to be more reserved may not say anything unless given an opportunity or asked.  _Tip**:** Have each person put one thing up, and write it for them and then open the board up for everyone to write on as they please._
 
-**Goal:** Discuss what went well and what did not in a safe/controlled environment and create action items to mitigate them.
+**Goal:** Discuss what went well and what did not, in a safe/controlled environment and create action items to mitigate them.
 
-* If action items are made but not followed, retrospectives can quickly just turn into a platform to just complain. **Bring up Action Items during the daily standup until they are taken care of**
+* If action items are made but not followed, retrospectives can quickly just turn into a platform to just complain. **Bring up Action Items during the daily standup until they are taken care of.**
 * Everything from the working environment, communication between roles, technical decisions can be covered. 
 * This is a great time for the team to connect, it should be fun and productive. Bring snacks \(Since we are all remote, still bring snacks for yourself\) and enjoy the time as a team together. 
 

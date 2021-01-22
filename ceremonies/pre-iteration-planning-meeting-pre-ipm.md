@@ -11,5 +11,7 @@
 * Ensure stories are fleshed out and ready to be worked on for the next week.
 * Prioritize based off of feedback, user needs, and highest value that can be achieved quickly if possible.
 * Attach any designs or artifacts to stories that need referenceable context.
-* Do anything here that wouldn't take away from the team during the IPM \(Iteration Planning Meeting\), as this is a great time to discuss with a developer to clear up any technical questions you may have.
+* Do anything here that wouldn't take away time from the team during the IPM \(Iteration Planning Meeting\), as this is a great time to discuss with a developer to clear up any technical questions you may have.
+
+**\*\* \(TBD\) - Need to expand** 
 

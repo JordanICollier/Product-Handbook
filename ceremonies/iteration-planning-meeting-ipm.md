@@ -10,7 +10,7 @@
   
 1\) SHORT, Keep the meeting short and focused.** 
 
-* 1 hour MAX
+* 1 hour at MAX
 * Assign someone as the offline referee if you need to and rotate them. The offline referee is someone who can basically say, "_Timeout, can we offline this? I will capture it and we can talk about it after the IPM_".
 * If you find that you do not have enough work for the IPM, be transparent about it and work with the technical lead to translate the user's needs and stakeholders asks into stories related to the current hypothesis. 
 
@@ -35,16 +35,16 @@ I have found that when using points which is not based off of time, humans are t
                  3 - Do not know how to begin the story, and need to research or have a conversation  
    
 **Tips**:  
-- Do not discuss points before you point, as you do not want to create a bias or a false representation of someone's confidence.
+Do not discuss points before you point, as you do not want to create a bias or a false representation of someone's confidence.
 
 * An example of a way to point is to '_roshambo'_  \(Paper Rock Scissor timing\) and have everyone hold out a digit with their fingers.
 * Sometimes higher points can be a sign of a story that is too big, so keep it in mind.
 * Sometimes lower points can be a sign of a story that is too small.
 * If an entire team is voting a 1 for instance, and a team member votes a 3, sometimes that is a great sign of pairing session that needs to occur. Pair the person who voted the story highly with someone who voted lower.
-* When there is parity amongst the team in regard to points, it needs to be discussed and then repointed.
+* When there is parity amongst the team in regard to points, it needs to be discussed and then re-pointed.
 
 **4\) Chores**  
-Chores can represent technical debt that needs to be cleaned up, try and figure out ways to not have a lot of chores but instead infuse them with feature stories
+Chores can represent technical debt that needs to be cleaned up, so try and figure out ways to not have a lot of chores but instead, infuse them with feature stories
 
 **5\)** **No more than 2 weeks of work in your backlog**
 
