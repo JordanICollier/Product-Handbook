@@ -56,4 +56,6 @@
 ## UPCOMING CONTENT
 
 * [PLACEHOLDER for GRAPHIC displaying productization steps](upcoming-content/placeholder-for-graphic-displaying-productization-steps.md)
+* [Stakeholder SYNC](upcoming-content/stakeholder-sync.md)
+* [Good Roadmaps and where to find them](upcoming-content/good-roadmaps-and-where-to-find-them.md)
 
