@@ -4,7 +4,7 @@ Every day a standup should take place to ensure the team is calibrated.
 
 People are incredibly forgetful, and repeating the vision, direction, and what is being worked on needs to be stated often.  
   
-**Who:** Entire technical team, designer, and stakeholder\(optional\)  
+**Who:** Entire technical team, designer, product person, and stakeholder\(optional\)  
 **How long:** &lt;10 minutes   
 **Focus on the following:**
 
