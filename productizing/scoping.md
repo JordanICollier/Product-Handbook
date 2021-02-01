@@ -5,7 +5,7 @@ A Scoping is a conversation with a facilitator revolving around a potential or e
   
 **When do you have a scoping?**
 
-* When you have delivered a hypothesis and ready for the next or 
+* When you have delivered a hypothesis and ready for the next iteration
 * Whenever an existing or potential product is identified. 
 * An idea is had about a problem/solution
 * Work is being done, but it is disorganized
