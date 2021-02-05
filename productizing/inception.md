@@ -10,7 +10,7 @@ This happens after a Discovery and Framing.
 **Who:** Entire development team, designer, PM for the product, stakeholder, and an inception facilitator with a Scribe \(someone who takes notes\)  
 **How Long:** &lt;8 hours  
 **Goal:** Go over the hypothesis for the product, and the potential solution you are going to test technically and how you will measure failure/success in a highly interactive meeting.  
-TIP: Having someone who has done an inception before is highly suggested, you want to make sure that those with the loudest voice are the only ones heard. Have a facilitator that ensure each person have a chance to speak and share their perspective and understanding.  
+TIP: Having someone who has done an inception before is highly suggested, you want to make sure that those with the loudest voice are **not** the only ones heard. Have a facilitator that ensure each person have a chance to speak and share their perspective and understanding.  
 **Approach:** See agenda below  
 **Antigoal:** Time to come up with a solution\*  
 \*This should have been discussed and agreed upon during Discovery and Framing
