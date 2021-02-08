@@ -38,7 +38,7 @@
 
 ## The art of the Story
 
-* [Story Theory](the-art-of-the-story/untitled.md)
+* [Story Theory](the-art-of-the-story/story-theory.md)
 * [Good Story](the-art-of-the-story/good-story.md)
 * [Poor Story](the-art-of-the-story/poor-story.md)
 * [Chore](the-art-of-the-story/chore.md)
