@@ -17,7 +17,7 @@ SO THAT \[REASON\]
 This is what the PM will use to test whether a story has been implemented according to the understanding discussed during IPM and throughout the week.  
 The format I suggest is:  
 GIVEN \[General setup and context\]  
-When \[An something is perform\]  
+When \[An something is performed\]  
 Then \[result\]  
 AND/OR**\*\***
 
