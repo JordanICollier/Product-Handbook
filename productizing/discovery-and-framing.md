@@ -1,6 +1,6 @@
 # Discovery and Framing
 
-**What is Discovery and Framing:**  
+**What is Discovery and Framing?**  
 You will hear some folks refer to this as DnF \(Discovery and Framing\) and this is the time when \(as a team identified in the scoping\), you go wide and create a prioritized backlog of problems and a backlog of solutions. One of the keys here is to tackle and identify what you think is the high priority.   
   
 **To say it another way, this is the time when you identify the following:**

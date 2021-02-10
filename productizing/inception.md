@@ -1,6 +1,6 @@
 # Inception
 
-**What is an Inception:**  
+**What is an Inception?**  
 In many ways an inception is similar to a scoping, however, this time around you should have a clearly defined problem and solution. This is the time when we get together as a team and ensure there is a shared understanding on the approach, hypothesis, and metrics.  
   
 **When do you have an inception?**  
@@ -21,14 +21,6 @@ A LOT MORE TO BE FILLED IN HERE IN THE FUTURE, if you have questions please reac
 
 _TIP: Having someone who has done an Inception before is highly suggested, you want to make sure that those with the loudest voice are **not** the only ones heard. Have a facilitator who will ensure, each person gets a chance to speak and share their perspective and understanding._  
   
-**Approach:** See the agenda below  
-**Antigoal:** Time to come up with a solution\*  
-\*This should have been discussed and agreed upon during Discovery and Framing  
-  
-**Note: Facilitating an Inception takes a ton of practice, and please ensure that the facilitator is completely unbiased towards anyone involved to the Inception. This is where most mistakes can be made and can actually make all progress made, be pointless.**  
-  
-A LOT MORE TO BE FILLED IN HERE IN THE FUTURE, if you have questions, please reach out to jordanicollier@gmail.com
-
 **Agenda:**  
 Individual Introductions \(3 mins\)  
 What is an inception? \(5 mins\)  
